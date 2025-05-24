@@ -1,0 +1,7 @@
+como usar ?
+simples
+abra termux ou seu terminal.
+digite
+git clone https://github.com/kreepxs/ffgenerator.git
+cd ff.py
+python ff py
